@@ -1,0 +1,23 @@
+input[type="number"] {
+    width: 125px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 480px;
+  }
+  button {
+    width: 120px;
+    height: 35px;
+    font-size: 18px;
+    background-color: rgb(54, 187, 231);
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 50px;
+  }
+  .result {
+    font-size: 18px;
+    margin-left: 480px;
+  }
+  h1{
+    text-align: center;
+
+  }
